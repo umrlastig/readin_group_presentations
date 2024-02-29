@@ -12,4 +12,4 @@ Otherwise you can contact the lab or the organizing team to get it removed.
 
 ### 15/02/2024
 * Raphaël Bres, *VGI road network evolution from a user’s point of view*
-* Solenn Tual, *Création de graphes géohistoriques à partir des annuaires du commerce parisien du 19ème siècle*
+* Solenn Tual, *[Création de graphes géohistoriques à partir des annuaires du commerce parisien du 19ème siècle](https://github.com/soduco/atelier_graphes_geohistoriques_annuaires)*
