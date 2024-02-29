@@ -7,7 +7,7 @@ Otherwise you can contact the lab or the organizing team to get it removed.
 ## Previous sessions
 
 ### 29/02/2024
-* Charly Bernard, *Création d'un référentiel géo-historiques d'adresses à partir de sources multiples*
+* Charly Bernard, *Création d'un référentiel géo-historique d'adresses à partir de sources multiples*
 * Wu Teng, **
 
 ### 15/02/2024
