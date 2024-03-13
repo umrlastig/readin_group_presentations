@@ -10,7 +10,7 @@ Otherwise you can contact the lab or the organizing team to get it removed.
 *Looking for presenters*
 
 ## 28/03/2024
-*No reading group because of UGE-IGN-ENSG research day. Next reading group will be the 11/04*
+*Cancelled because of UGE-IGN-ENSG research day. Next reading group will be the 11/04*
 
 ## 14/03/2024
 - Juste Raimbault, *[Multiscalar models for systems of cities](https://hal.science/hal-04257833)*
