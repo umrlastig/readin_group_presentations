@@ -16,6 +16,9 @@ Otherwise you can contact the lab or the organizing team to get it removed.
 ### 04/07/2024
 *Looking for presenters*
 
+### 20/06/2024
+*Looking for presenters*
+
 ### 06/06/2024
 *Looking for presenters*
 
