@@ -1,22 +1,42 @@
 # LASTIG Reading Group
 
+## Slides
+
 This repo is where are stored the slides (pdf) of the reading group sessions.
 If your slides are here, it means that we have asked explicitly if it could be so.
 Otherwise you can contact the lab or the organizing team to get it removed.  
 
 ## Upcoming sessions
 
-## 11/04/2024
+### 04/07/2024
 *Looking for presenters*
 
-## 28/03/2024
-*Cancelled because of UGE-IGN-ENSG research day. Next reading group will be the 11/04*
+### 06/06/2024
+*Looking for presenters*
 
-## 14/03/2024
-- Juste Raimbault, *[Multiscalar models for systems of cities](https://hal.science/hal-04257833)*
-- Karim Kassab, *Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes*
+### 23/05/2024
+*Looking for presenters*
+
+### 09/05/2024
+*Cancelled because of public holiday*
+
+### 25/04/2024
+- Alexane Nghien, *Atmospheric correction of very high spatial resolution images using multispectral satellite images*
+- Maieul Gruget, *Exploration de la théorie de l’ancrage pour les cartes pan-scalaires*
 
 ## Previous sessions
+
+### 11/04/2024
+- Martin Cubaud, *Deep Learning For Time Series Classification*
+- Rebecca Slattery, *Modeling red fox movements : Assess the potential consequences of land use changes on the movements of red foxes in the Greater Nancy Metropolis*
+- Gil Manfrin, *The Spatial Discrimination of Nomadics Populations In France*
+
+### 28/03/2024
+*Cancelled because of UGE-IGN-ENSG research day. Next reading group will be the 11/04*
+
+### 14/03/2024
+- Juste Raimbault, *[Multiscalar models for systems of cities](https://hal.science/hal-04257833)*
+- Karim Kassab, *Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes*
 
 ### 29/02/2024
 * Charly Bernard, *[Création d'un référentiel géo-historiques d'adresses à partir de sources multiples](https://hal.science/hal-04490732/document)*
