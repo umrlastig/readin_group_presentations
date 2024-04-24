@@ -2,8 +2,8 @@
 
 This is the Git-Hub repository of the LASTIG reading-group, where you can find the program and slides.
 
-*When* : 1 week out of 2 on Thursday at 10:00 am.
-*Where* : on-site and remote
+* **When** : 1 week out of 2 on Thursday at 10:00 am.
+* **Where** : on-site and remote
 
 ## Slides
 
