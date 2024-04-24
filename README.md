@@ -1,5 +1,7 @@
 # LASTIG Reading Group
 
+This is the Git-Hub repository of the LASTIG laboratory, where you can find the program and slides.
+
 ## Slides
 
 This repo is where are stored the slides (pdf) of the reading group sessions.
