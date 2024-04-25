@@ -30,11 +30,11 @@ If your presentation describes a precise scientific article, you can send us the
 ### 09/05/2024
 *Cancelled because of public holiday*
 
+## Previous sessions
+
 ### 25/04/2024
 - Alexane Nghien, *Atmospheric correction of very high spatial resolution images using multispectral satellite images*
 - Maieul Gruget, *Exploration de la théorie de l’ancrage pour les cartes pan-scalaires*
-
-## Previous sessions
 
 ### 11/04/2024
 - Martin Cubaud, *Deep Learning For Time Series Classification*
