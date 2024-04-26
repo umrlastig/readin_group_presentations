@@ -22,7 +22,7 @@ If your presentation describes a precise scientific article, you can send us the
 *Looking for presenters*
 
 ### 06/06/2024
-*Looking for presenters*
+* Chahine Nicolas, *TITRE A VENIR*
 
 ### 23/05/2024
 *Looking for presenters*
