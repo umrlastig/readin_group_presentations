@@ -19,18 +19,20 @@ If your presentation describes a precise scientific article, you can send us the
 *Looking for presenters*
 
 ### 20/06/2024
-*Looking for presenters*
+* Paul Chapron, *TITRE A VENIR*
 
 ### 06/06/2024
+* Amine Boussik, *TITRE A VENIR*
 * Chahine Nicolas, *TITRE A VENIR*
 
 ### 23/05/2024
-*Looking for presenters*
+* Looking for prsentation n°2 !
+* John-Andrew Dawson, *TITRE A VENIR*
+
+## Previous sessions
 
 ### 09/05/2024
 *Cancelled because of public holiday*
-
-## Previous sessions
 
 ### 25/04/2024
 - Alexane Nghien, *Atmospheric correction of very high spatial resolution images using multispectral satellite images*
