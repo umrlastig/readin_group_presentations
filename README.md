@@ -23,7 +23,7 @@ If your presentation describes a precise scientific article, you can send us the
 
 ### 06/06/2024
 * Amine Boussik, *TITRE A VENIR*
-* Chahine Nicolas, *TITRE A VENIR*
+* Chahine-Nicolas Zede, *TITRE A VENIR*
 
 ### 23/05/2024
 * Looking for prsentation n°2 !
