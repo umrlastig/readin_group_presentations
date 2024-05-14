@@ -27,7 +27,9 @@ If your presentation describes a precise scientific article, you can send us the
 
 ### 23/05/2024
 * Looking for prsentation n°2 !
-* John-Andrew Dawson, *TITRE A VENIR*
+* John-Andrew Dawson, *Modeling and computation of Resilient Routes in Mountains areas* (InForOutProject)
+
+*The goal of the PhD is to analyze the impact of outdoor recreation activities in the mountains and create a route recommendation system that can help mitigate these impacts.*
 
 ## Previous sessions
 
