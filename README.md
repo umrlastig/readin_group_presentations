@@ -23,7 +23,7 @@ If your presentation describes a precise scientific article, you can send us the
 * Paul Chapron, *TITRE A VENIR*
 
 ### 06/06/2024
-* Amine Boussik, *Recalage des données hétérogènes et reconstruction 3D du territoire *
+* Amine Boussik, *Recalage des données hétérogènes et reconstruction 3D du territoire*
 * Chahine-Nicolas Zede, *TITRE A VENIR*
 
 ### 23/05/2024
