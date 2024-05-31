@@ -23,11 +23,11 @@ If your presentation describes a precise scientific article, you can send us the
 * Paul Chapron, *TITRE A VENIR*
 
 ### 06/06/2024
-* Amine Boussik, *TITRE A VENIR*
+* Amine Boussik, *Recalage des données hétérogènes et reconstruction 3D du territoire *
 * Chahine-Nicolas Zede, *TITRE A VENIR*
 
 ### 23/05/2024
-* Bruno Vallet, *TITRE A VENIR*
+* Bruno Vallet, *Propositions de la mission sur le mixte technologique de l'acquisition de données*
 * John-Andrew Dawson, *Modeling and computation of Resilient Routes in Mountains areas* (InForOutProject)
 
 *The goal of the PhD is to analyze the impact of outdoor recreation activities in the mountains and create a route recommendation system that can help mitigate these impacts.*
