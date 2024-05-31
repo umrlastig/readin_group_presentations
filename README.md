@@ -24,7 +24,7 @@ If your presentation describes a precise scientific article, you can send us the
 
 ### 06/06/2024
 * Amine Boussik, *Recalage des données hétérogènes et reconstruction 3D du territoire*
-* Chahine-Nicolas Zede, *TITRE A VENIR*
+* Chahine-Nicolas Zede, *Reconnaissance de lieux à grande échelle à partir de nuages de points*
 
 ### 23/05/2024
 * Bruno Vallet, *Propositions de la mission sur le mixte technologique de l'acquisition de données*
