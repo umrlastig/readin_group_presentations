@@ -19,7 +19,7 @@ If your presentation describes a precise scientific article, you can send us the
 *Looking for presenters*
 
 ### 20/06/2024
-* Nathalie Abadie, *TITRE A VENIR*
+* *Looking for presenter*
 * Paul Chapron, *TITRE A VENIR*
 
 ### 06/06/2024
