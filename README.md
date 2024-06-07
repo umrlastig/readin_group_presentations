@@ -22,6 +22,8 @@ If your presentation describes a precise scientific article, you can send us the
 * Florent Geniet, *TITRE A VENIR*
 * Paul Chapron, *TITRE A VENIR*
 
+## Previous sessions
+
 ### 06/06/2024
 * Amine Boussik, *Recalage des données hétérogènes et reconstruction 3D du territoire*
 * Chahine-Nicolas Zede, *Reconnaissance de lieux à grande échelle à partir de nuages de points*
@@ -29,10 +31,6 @@ If your presentation describes a precise scientific article, you can send us the
 ### 23/05/2024
 * Bruno Vallet, *Propositions de la mission sur le mixte technologique de l'acquisition de données*
 * John-Andrew Dawson, *Modeling and computation of Resilient Routes in Mountains areas* (InForOutProject)
-
-*The goal of the PhD is to analyze the impact of outdoor recreation activities in the mountains and create a route recommendation system that can help mitigate these impacts.*
-
-## Previous sessions
 
 ### 09/05/2024
 *Cancelled because of public holiday*
