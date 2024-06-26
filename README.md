@@ -15,14 +15,13 @@ If your presentation describes a precise scientific article, you can send us the
 
 ## Upcoming sessions
 
-### 04/07/2024
-*Looking for presenters*
+* The reading group will come back at the end of August.
+
+## Previous sessions
 
 ### 20/06/2024
 * Florent Geniet, *TITRE A VENIR*
 * Paul Chapron, *TITRE A VENIR*
-
-## Previous sessions
 
 ### 06/06/2024
 * Amine Boussik, *Recalage des données hétérogènes et reconstruction 3D du territoire*
