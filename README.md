@@ -15,13 +15,19 @@ If your presentation describes a precise scientific article, you can send us the
 
 ## Upcoming sessions
 
-* The reading group will come back at the end of August.
+### 10/10/2024
+* Vera Gotze
+* *LOOKING FOR A VOLUNTEER*
+
+### 26/09/2024
+* Bérénice Le Mao
+* Laura Wenclik
 
 ## Previous sessions
 
 ### 20/06/2024
-* Florent Geniet, *TITRE A VENIR*
-* Paul Chapron, *TITRE A VENIR*
+* Florent Geniet, *Prototype of a 3D polyedral modeler*
+* Paul Chapron, *Resilience and stability of ecological systems - an awesome paper by C.S. Holling*
 
 ### 06/06/2024
 * Amine Boussik, *Recalage des données hétérogènes et reconstruction 3D du territoire*
