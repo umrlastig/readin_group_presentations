@@ -14,14 +14,28 @@ Otherwise you can contact the lab or the organizing team to get it removed.
 If your presentation describes a precise scientific article, you can send us the URL of the paper to complete the program.
 
 ## Upcoming sessions
+### 26/09/2024
+* Bérénice Le Mao
+* Laura Wenclik
 
 ### 10/10/2024
 * Vera Gotze
 * *LOOKING FOR A VOLUNTEER*
 
-### 26/09/2024
-* Bérénice Le Mao
-* Laura Wenclik
+### 24/10/2024
+* *LOOKING FOR VOLUNTEERS*
+
+### 07/11/2024
+* *LOOKING FOR VOLUNTEERS*
+
+### 21/11/2024
+* *LOOKING FOR VOLUNTEERS*
+
+### 05/12/2024
+* Cancelled because of LASTIG general assembly "Newcommers"
+
+### 19/12/2024
+* Probably cancelled because of LASTIG Moving at Champs-sur-Marne.
 
 ## Previous sessions
 
