@@ -20,7 +20,7 @@ If your presentation describes a precise scientific article, you can send us the
 
 ### 10/10/2024
 * Vera Gotze
-* *LOOKING FOR A VOLUNTEER*
+* Samy Guembour
 
 ### 24/10/2024
 * *LOOKING FOR VOLUNTEERS*
