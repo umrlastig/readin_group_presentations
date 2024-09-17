@@ -32,7 +32,7 @@ If your presentation describes a precise scientific article, you can send us the
 * *LOOKING FOR VOLUNTEERS*
 
 ### 05/12/2024
-* Cancelled because of LASTIG general assembly "Newcommers"
+* Cancelled because of LASTIG Newcommers seminar
 
 ### 19/12/2024
 * Probably cancelled because of LASTIG Moving at Champs-sur-Marne.
