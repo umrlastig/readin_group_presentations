@@ -15,17 +15,18 @@ If your presentation describes a precise scientific article, you can send us the
 
 ## Upcoming sessions
 ### 26/09/2024
-* Bérénice Le Mao
-* Laura Wenclik
+* Bérénice Le Mao, *Explore maps as you read a comic book*
+* Laura Wenclik, *EyeCatchingMaps, a Dataset to Assess Saliency Models on Maps*
 
 ### 10/10/2024
+* Samy Guembour, *Désambiguïsation des mots polysémiques de la ville dans des romans de science-fiction*
 * Vera Gotze
-* Samy Guembour
 
 ### 24/10/2024
-* *LOOKING FOR VOLUNTEERS*
+* Jiangying Qin (Wuhan University)
+* *LOOKING FOR VOLUNTEER*
 
-### 07/11/2024
+### 07/11/2024 (date might change)
 * *LOOKING FOR VOLUNTEERS*
 
 ### 21/11/2024
