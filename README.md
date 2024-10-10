@@ -14,13 +14,10 @@ Otherwise you can contact the lab or the organizing team to get it removed.
 If your presentation describes a precise scientific article, you can send us the URL of the paper to complete the program.
 
 ## Upcoming sessions
-### 26/09/2024
-* Bérénice Le Mao, *Explore maps as you read a comic book*
-* Laura Wenclik, *EyeCatchingMaps, a Dataset to Assess Saliency Models on Maps*
 
 ### 10/10/2024
 * Samy Guembour, *Désambiguïsation des mots polysémiques de la ville dans des romans de science-fiction*
-* Vera Gotze
+* Vera Gotze, *Capturing land policy effects with spatial analysis. A Comparison of densification patterns in Utrecht and Bern*
 
 ### 24/10/2024
 * Jiangying Qin (Wuhan University)
@@ -39,6 +36,10 @@ If your presentation describes a precise scientific article, you can send us the
 * Probably cancelled because of LASTIG Moving at Champs-sur-Marne.
 
 ## Previous sessions
+
+### 26/09/2024
+* Bérénice Le Mao, *Explore maps as you read a comic book*
+* Laura Wenclik, *EyeCatchingMaps, a Dataset to Assess Saliency Models on Maps*
 
 ### 20/06/2024
 * Florent Geniet, *Prototype of a 3D polyedral modeler*
