@@ -15,27 +15,28 @@ If your presentation describes a precise scientific article, you can send us the
 
 ## Upcoming sessions
 
-### 10/10/2024
-* Samy Guembour, *Désambiguïsation des mots polysémiques de la ville dans des romans de science-fiction*
-* Vera Gotze, *Capturing land policy effects with spatial analysis. A Comparison of densification patterns in Utrecht and Bern*
-
 ### 24/10/2024
 * Jiangying Qin (Wuhan University)
-* *LOOKING FOR VOLUNTEER*
-
-### 07/11/2024 (date might change)
-* *LOOKING FOR VOLUNTEERS*
+* Melvin Hersent (MAP/LASTIG)
 
 ### 21/11/2024
-* *LOOKING FOR VOLUNTEERS*
+* Raphaël Bres (répétition de soutenance de thèse)
 
 ### 05/12/2024
 * Cancelled because of LASTIG Newcommers seminar
+
+### 12/12/2024
+* LOOKING FOR VOLUNTEERS
+* LOOKING FOR VOLUNTEERS
 
 ### 19/12/2024
 * Probably cancelled because of LASTIG Moving at Champs-sur-Marne.
 
 ## Previous sessions
+
+### 10/10/2024
+* Samy Guembour, *Désambiguïsation des mots polysémiques de la ville dans des romans de science-fiction*
+* Vera Gotze, *Capturing land policy effects with spatial analysis. A Comparison of densification patterns in Utrecht and Bern*
 
 ### 26/09/2024
 * Bérénice Le Mao, *Explore maps as you read a comic book*
