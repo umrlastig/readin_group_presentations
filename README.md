@@ -15,11 +15,11 @@ If your presentation describes a precise scientific article, you can send us the
 
 ## Upcoming sessions
 
-### 24/10/2024
+### 24/10/2024 (A571)
 * Jiangying Qin (Wuhan University)
 * Melvin Hersent (MAP/LASTIG)
 
-### 21/11/2024
+### 21/11/2024 (K413)
 * Raphaël Bres (répétition de soutenance de thèse)
 
 ### 05/12/2024
