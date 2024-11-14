@@ -26,7 +26,7 @@ If your presentation describes a precise scientific article, you can send us the
 * Cancelled because of LASTIG Newcommers seminar
 
 ### 12/12/2024
-* LOOKING FOR VOLUNTEERS
+* Georges Le Bellier
 * LOOKING FOR VOLUNTEERS
 
 ### 19/12/2024
