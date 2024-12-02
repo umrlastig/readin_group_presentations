@@ -18,7 +18,7 @@ If your presentation describes a precise scientific article, you can send us the
 ### 05/12/2024
 * Cancelled because of LASTIG Newcommers seminar (that has been cancelled also...)
 
-### 12/12/2024
+### 12/12/2024 (A571)
 * Georges Le Bellier
 * Charly Bernard and Solenn Tual
 
