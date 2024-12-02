@@ -15,24 +15,24 @@ If your presentation describes a precise scientific article, you can send us the
 
 ## Upcoming sessions
 
-### 24/10/2024 (A571)
-* Jiangying Qin (Wuhan University)
-* Melvin Hersent (MAP/LASTIG)
-
-### 21/11/2024 (K413)
-* Raphaël Bres (répétition de soutenance de thèse)
-
 ### 05/12/2024
-* Cancelled because of LASTIG Newcommers seminar
+* Cancelled because of LASTIG Newcommers seminar (that has been cancelled also...)
 
 ### 12/12/2024
 * Georges Le Bellier
-* LOOKING FOR VOLUNTEERS
+* Charly Bernard and Solenn Tual
 
 ### 19/12/2024
 * Probably cancelled because of LASTIG Moving at Champs-sur-Marne.
 
 ## Previous sessions
+
+### 21/11/2024 (K413)
+* Raphaël Bres (répétition de soutenance de thèse)
+
+### 24/10/2024 (A571)
+* Jiangying Qin (Wuhan University)
+* Melvin Hersent (MAP/LASTIG)
 
 ### 10/10/2024
 * Samy Guembour, *Désambiguïsation des mots polysémiques de la ville dans des romans de science-fiction*
