@@ -15,17 +15,21 @@ If your presentation describes a precise scientific article, you can send us the
 
 ## Upcoming sessions
 
-### 05/12/2024
-* Cancelled because of LASTIG Newcommers seminar (that has been cancelled also...)
+### 23/01/2025 (C409, ENSG)
+* Martin Cubaud, *Interpretability of a multi-source Land Use classification machine learning model using a SHAP approach*
+* Florent Geniet, *Editing Watertight Manifold Polyhedra using Face Shifts with Automatic Topological Updates and Edge Flips*
+
+## Previous sessions
+
+### 19/12/2024
+* Probably cancelled because of LASTIG Moving at Champs-sur-Marne.
 
 ### 12/12/2024 (A571)
 * Georges Le Bellier
 * Charly Bernard and Solenn Tual
 
-### 19/12/2024
-* Probably cancelled because of LASTIG Moving at Champs-sur-Marne.
-
-## Previous sessions
+### 05/12/2024
+* Cancelled because of LASTIG Newcommers seminar (that has been cancelled also...)
 
 ### 21/11/2024 (K413)
 * Raphaël Bres (répétition de soutenance de thèse)
