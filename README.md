@@ -2,7 +2,7 @@
 
 This is the Git-Hub repository of the LASTIG reading-group, where you can find the program and slides.
 
-* **When** : 1 week out of 2 on Thursday at 10:30 am.
+* **When** : 1 week out of 2 on Thursday at 10:45 am.
 * **Where** : on-site and remote
 
 ## Slides
@@ -15,28 +15,38 @@ If your presentation describes a precise scientific article, you can send us the
 
 ## Upcoming sessions
 
+### 06/03/2025
+* Bérénice Le Mao, *Expérimenter la progressivité dans une carte*
+* Solenn Tual, *Utilisation de la bibliothèque Wikipédia pour l'étude bibliographique* (tutoriel court)
+
+### 20/03/2025
+* Chahine Nicolas Zede, *Titre à venir*
+* ?
+
+### 03/04/2025
+### 17/04/2025
+### 15/05/2025
+
+## Previous sessions
+
+### 26/02/2025 (C409, ENSG)
+* Maria Jesus Lobo-Gunther, *Comparing interactive transitions between 2D top-down and 3D immersive map views*
+* Mehdi Daakir, *Implementation of coded targets for metrology applications in MicMac, a free open-source photogrammetric software*
+
 ### 23/01/2025 (C409, ENSG)
 * Martin Cubaud, *Interpretability of a multi-source Land Use classification machine learning model using a SHAP approach*
 * Florent Geniet, *Editing Watertight Manifold Polyhedra using Face Shifts with Automatic Topological Updates and Edge Flips*
 
-## Previous sessions
-
-### 19/12/2024
-* Probably cancelled because of LASTIG Moving at Champs-sur-Marne.
-
 ### 12/12/2024 (A571)
-* Georges Le Bellier
-* Charly Bernard and Solenn Tual
-
-### 05/12/2024
-* Cancelled because of LASTIG Newcommers seminar (that has been cancelled also...)
+* Georges Le Bellier (CEDRIC/CNAM), *Flow Matching for Domain Adaptation in Earth Observation*
+* Charly Bernard and Solenn Tual, *PeGazUs: A knowledge graph based approach to build urban perpetual gazetteers*
 
 ### 21/11/2024 (K413)
-* Raphaël Bres (répétition de soutenance de thèse)
+* Raphaël Bres, *Modélisation et évolution du réseau cyclable* (répétition de soutenance de thèse)
 
 ### 24/10/2024 (A571)
-* Jiangying Qin (Wuhan University)
-* Melvin Hersent (MAP/LASTIG)
+* Jiangying Qin (Wuhan University), *Advancing Sun Glint Correction in High-Resolution Marine UAV RGB Imagery for Coral Reef Monitoring*
+* Melvin Hersent (MAP/LASTIG), *N-Dimensional analysis and exploration of heritage science data in mixed reality*
 
 ### 10/10/2024
 * Samy Guembour, *Désambiguïsation des mots polysémiques de la ville dans des romans de science-fiction*
