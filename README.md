@@ -17,7 +17,7 @@ If your presentation describes a precise scientific article, you can send us the
 
 ### 06/03/2025 (C409, ENSG)
 * Bérénice Le Mao, *Expérimenter la progressivité dans une carte*
-* Solenn Tual, *Utilisation de la bibliothèque Wikipédia pour l'étude bibliographique* (tutoriel court)
+* Solenn Tual, *[Utilisation de la bibliothèque Wikipédia pour l'étude bibliographique](https://docs.google.com/presentation/d/1aqQifAp8y9YI1YUQbMFICirsjra7EaJW1BrCfhnAuAg/edit?usp=sharing)* (tutoriel court)
 
 ### 20/03/2025
 * Chahine Nicolas Zede, *Titre à venir*
