@@ -20,12 +20,15 @@ If your presentation describes a precise scientific article, you can send us the
 * Solenn Tual, *[Utilisation de la bibliothèque Wikipédia pour l'étude bibliographique](https://docs.google.com/presentation/d/1aqQifAp8y9YI1YUQbMFICirsjra7EaJW1BrCfhnAuAg/edit?usp=sharing)* (tutoriel court)
 
 ### 20/03/2025
-* Chahine Nicolas Zede, *Titre à venir*
-* ?
+* Chahine Nicolas Zede, *Fast 3D point clouds retrieval for Large-scale 3D Place Recognition*
 
 ### 03/04/2025
+* Yanis Benidir, **
+* ?
+  
 ### 17/04/2025
 ### 15/05/2025
+### 05/06/2025
 
 ## Previous sessions
 
