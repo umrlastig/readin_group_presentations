@@ -14,24 +14,24 @@ Otherwise you can contact the lab or the organizing team to get it removed.
 If your presentation describes a precise scientific article, you can send us the URL of the paper to complete the program.
 
 ## Upcoming sessions
+  
+### 15/05/2025
+* Clément Mallet
+* Célestin Huet, *POMPEI*
+
+### 05/06/2025
+* Bénédicte Bucher, *A Model of Building Changes to Support Comparative Studies and Open Discussions on Densification*
+
+### 19/06/2025
+* ?
+
+## Previous sessions
 
 ### 03/04/2025 (C003)
 * Yanis Benidir, *Semantic Change Detection In Earth Observation With Hybrid Data Generation*
   
 ### 17/04/2025 (C409)
-* ?
-  
-### 15/05/2025
-* Clément Mallet
-* Célestin Huet
-
-### 05/06/2025
-* ?
-* 
-### 19/06/2025
-* ?
-
-## Previous sessions
+* CANCELLED
 
 ### 20/03/2025
 * Chahine Nicolas Zede, *Fast 3D point clouds retrieval for Large-scale 3D Place Recognition*
