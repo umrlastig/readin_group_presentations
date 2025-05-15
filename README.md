@@ -15,15 +15,15 @@ If your presentation describes a precise scientific article, you can send us the
 
 ## Upcoming sessions
   
-### 15/05/2025
-* Clément Mallet
-* Célestin Huet, *POMPEI*
+### 15/05/2025 (10h45, C307)
+* Célestin Huet, *Ouverture du code de Pompéi pour produire des orthophotos et des MNS historiques à partir des photos historiques de l'IGN*
 
-### 05/06/2025
+### 05/06/2025 (10h30, C409)
+* Maxim Spur
 * Bénédicte Bucher, *A Model of Building Changes to Support Comparative Studies and Open Discussions on Densification*
 
-### 19/06/2025
-* ?
+### 19/06/2025 (C307)
+* Clément Mallet ?
 
 ## Previous sessions
 
