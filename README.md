@@ -18,12 +18,12 @@ If your presentation describes a precise scientific article, you can send us the
 ### 15/05/2025 (10h45, C307)
 * Célestin Huet, *Ouverture du code de Pompéi pour produire des orthophotos et des MNS historiques à partir des photos historiques de l'IGN*
 
-### 05/06/2025 (10h30, C409)
-* Maxim Spur
+### 05/06/2025 (10h30, C409) *! Longer reading group !*
+* Maxim Spur (ENIB), *Immersive Focus+Context Geovisualization*
 * Bénédicte Bucher, *A Model of Building Changes to Support Comparative Studies and Open Discussions on Densification*
 
 ### 19/06/2025 (C307)
-* Clément Mallet ?
+* Clément Mallet
 
 ## Previous sessions
 
