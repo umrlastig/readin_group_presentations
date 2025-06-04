@@ -24,6 +24,7 @@ If your presentation describes a precise scientific article, you can send us the
 
 ### 19/06/2025 (C307)
 * Clément Mallet
+* Corentin 
 
 ## Previous sessions
 
