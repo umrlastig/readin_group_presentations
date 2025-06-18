@@ -16,8 +16,8 @@ If your presentation describes a precise scientific article, you can send us the
 ## Upcoming sessions
 
 ### 19/06/2025 (C307)
-* Corentin Gautier, Representation of Urban Data Through a Tangible Model
-* Clément Mallet, Publishing in journals. Some thoughts.
+* Corentin Gautier, *Representation of Urban Data Through a Tangible Model*
+* Clément Mallet, *Publishing in journals. Some thoughts.*
 
 ## Previous sessions
 
