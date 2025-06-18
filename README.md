@@ -14,25 +14,22 @@ Otherwise you can contact the lab or the organizing team to get it removed.
 If your presentation describes a precise scientific article, you can send us the URL of the paper to complete the program.
 
 ## Upcoming sessions
-  
-### 15/05/2025 (10h45, C307)
-* Célestin Huet, *Ouverture du code de Pompéi pour produire des orthophotos et des MNS historiques à partir des photos historiques de l'IGN*
-
-### 05/06/2025 (10h30, C409) *! Longer reading group !*
-* Maxim Spur (ENIB), *Immersive Focus+Context Geovisualization*
-* Bénédicte Bucher, *A Model of Building Changes to Support Comparative Studies and Open Discussions on Densification*
 
 ### 19/06/2025 (C307)
-* Clément Mallet
-* Corentin 
+* Corentin Gautier, Representation of Urban Data Through a Tangible Model
+* Clément Mallet, Publishing in journals. Some thoughts.
 
 ## Previous sessions
 
+### 05/06/2025 (10h30, C409) *! Longer reading group !*
+* Maxim Spur (ENIB), *Immersive Focus+Context Geovisualization*
+* Bénédicte Bucher, *A Model of Building Changes to Support Comparative Studies and Open Discussions on Densification**
+
+### 15/05/2025 (10h45, C307)
+* Célestin Huet, *Ouverture du code de Pompéi pour produire des orthophotos et des MNS historiques à partir des photos historiques de l'IGN*
+
 ### 03/04/2025 (C003)
 * Yanis Benidir, *Semantic Change Detection In Earth Observation With Hybrid Data Generation*
-  
-### 17/04/2025 (C409)
-* CANCELLED
 
 ### 20/03/2025
 * Chahine Nicolas Zede, *Fast 3D point clouds retrieval for Large-scale 3D Place Recognition*
